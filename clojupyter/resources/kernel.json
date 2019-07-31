@@ -1,0 +1,5 @@
+{
+ "argv": ["KERNEL", "{connection_file}"],
+ "display_name": "Clojure",
+ "language": "clojure"
+}
