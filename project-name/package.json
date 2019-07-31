@@ -28,7 +28,7 @@
   "dependencies": {
     "@accurat/tachyons-lite": "^1.0.4",
     "d3": "^5.7.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.13",
     "modern-normalize": "^0.5.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
